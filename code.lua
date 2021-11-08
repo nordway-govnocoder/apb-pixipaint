@@ -1,3 +1,5 @@
+--Requires CGPU Library, which you can find in my repos
+
 local event = require "event"
 local cgpu = require "cgpu"
 local keyboard = require "keyboard"
